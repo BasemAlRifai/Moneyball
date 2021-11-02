@@ -13,5 +13,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse nec magna i
 
   - Basem Al-Rifai
 
-## Relevant Course:
-University of Maryland, College Park - CMSC320 Data Science - Professor Jose Calderon
+## Relevant Course
+All project requirements and rights belong to the University of Maryland, College Park
+Course: CMSC320 Data Science
+Professor: Jose Calderon
