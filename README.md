@@ -9,10 +9,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse nec magna i
 ## Possible Improvements
 - Find more correlations between salary and player performance to strengthen hypothesis
 
-## Authors
-
-  - Basem Al-Rifai
-
 ## Acknowledgement
 All project supplementary files not written by myself belong to the University of Maryland, College Park  
 Course: CMSC320 Data Science  
