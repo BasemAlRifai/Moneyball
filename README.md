@@ -14,6 +14,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse nec magna i
   - Basem Al-Rifai
 
 ## Acknowledgement
-All project requirements and rights belong to the University of Maryland, College Park  
+All project requirements, supplementary code, and rights belong to the University of Maryland, College Park  
 Course: CMSC320 Data Science  
 Professor: Jose Calderon  
