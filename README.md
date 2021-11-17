@@ -2,6 +2,9 @@
 
 Moneyball is a Jupyter notebook analyzing correlations between baseball player salary and performance. This project was very interesting to work on and sparked my interest in data science. 
 
+## Page Hosting
+https://basemalrifai.github.io/MoneyBal/
+
 ## Programming concepts used
 - Data scraping with Pandas
 - Data analysis with Numpy
