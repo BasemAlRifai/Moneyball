@@ -13,6 +13,6 @@ https://basemalrifai.github.io/Moneyball/
 - Find more correlations between salary and player performance to strengthen hypothesis
 
 ## Acknowledgement
-All project supplementary files not written by myself belong to the University of Maryland, College Park  
+School: University of Maryland, College Park
 Course: CMSC320 Data Science  
 Professor: Jose Calderon  
